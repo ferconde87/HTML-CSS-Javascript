@@ -33,9 +33,21 @@ body {
   background: #bf8f20;
 }
 
+hr {
+  margin: 0px;
+}
+
+#collapsable-nav{
+  /* margin: 0px; */
+  border: 1px solid white;
+}
+
+#nav-list {
+  margin: 0px -15px;
+}
+
 /** BODY **/
 h1 {
-    text-align: center;
     padding-bottom: 25px;
 }
 
