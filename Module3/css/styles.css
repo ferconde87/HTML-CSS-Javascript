@@ -29,6 +29,7 @@ body {
   text-align: center;
   font-size: 1.5em;
 }
+
 #nav-list a:hover {
   background: #bf8f20;
 }
@@ -37,20 +38,9 @@ hr {
   margin: 0px;
 }
 
-#collapsable-nav{
-  /* margin: 0px; */
-  border: 1px solid white;
-}
-
 #nav-list {
   margin: 0px -15px;
 }
-
-/** BODY **/
-h1 {
-    padding-bottom: 25px;
-}
-
 
 @media (max-width: 767px)
 { 
@@ -58,3 +48,9 @@ h1 {
       background-color: #fc9f47;
     }
 }
+
+/** BODY **/
+h1 {
+    padding-bottom: 25px;
+}
+
